@@ -8,3 +8,6 @@ Transformar y visualizar los datos en un dash board interactivo de manera que pe
 1.- Realizar un Dash Board Interactivo por paises y categorias del producto.
 
 2.- Tener una hoja con los detalles y otra con las etiquetas por categorias.
+
+![Captura de pantalla 2025-06-13 122020](https://github.com/user-attachments/assets/44b9c257-ac3f-4b6a-bfdc-2020255af177)
+
